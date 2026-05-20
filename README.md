@@ -2,7 +2,7 @@
 - 👀 I’m interested to learn about technology
 - 🌱 I’m currently learning about cyber security
 - 👨‍💻 I’m looking to collaborate on any technology related content
-- 📫 How to reach me pavansaicgr@gmail.com
+- 📫 How to reach me skpavansaicgr@gmail.com
 - 💬 Ask me about HTML,CSS,JS,COMPUTER NETWORKING,CYBER SECURITY,....
 
 <!---
